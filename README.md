@@ -569,13 +569,14 @@ run_dashboard()
 ```
 ---
 
-### Phân Công Công Việc
+## Phân Công Công Việc
 
 | Thành viên | MSSV | Nhiệm vụ | Trạng thái |
 |-----------|------|----------|------------|
-|Mạc Văn Thanh |2A202600638 | | |
-|Hoàng Thanh Chiến |2A202600861 | | |
-|Phùng Gia Bảo |2A202600579 | | |
+| Hoàng Thanh Chiến|2A202600861 | xây dựng data và test| Hoàn Thành |
+| Phùng Gia Bảo|2A202600579 | Xây dựng giao diện|  Hoàn Thành|
+| Mạc Văn Thanh|2A202600638 | So sánh kết quả|  Hoàn Thành|
+| | | | |
 
 ---
 
